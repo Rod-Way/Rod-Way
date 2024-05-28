@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning Rust
 
-![PIZZA](https://backend.codecrafters.io/progress/http-server/949067c7-9815-479d-88f1-4c868a5da8c7)
+![PIZZA](https://backend.codecrafters.io/progress/shell/dde2c6b7-a31e-4388-b37a-319d2b75000b)
