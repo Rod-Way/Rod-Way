@@ -14,4 +14,6 @@
 </p>
 
 ## My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Rod-Way&hide_rank=true&theme=dracula" alt="Github Stats"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rod-Way&hide_rank=true&theme=dracula" alt="Github Stats"/>
+</a>
