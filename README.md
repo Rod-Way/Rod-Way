@@ -5,11 +5,9 @@
 ## My Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,ts,react,nextjs,vite" alt="Frontend Skills"/>
-    <br />
-    <img src="https://skillicons.dev/icons?i=go,rust,cpp,mongodb,postgres,tauri,redis,graphql" alt="Backend Skills"/>
-    <br />
-    <img src="https://skillicons.dev/icons?i=git,bash,docker,linux,postman,appwrite,vscode,neovim&theme=dark" alt="Other Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,htmx,css,js,ts,golang,rust,cpp,md" alt="languages"/><br />
+    <img src="https://skillicons.dev/icons?i=react,sass,tailwind,nextjs,vite,threejs,tauri,vue,nuxtjs" alt="frameworks and libs"/><br />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,rabbitmq,docker,elasticsearch,postman,git,obsidian" alt="apps"/><br />
   </a>
 </p>
 
