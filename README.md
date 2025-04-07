@@ -5,9 +5,9 @@
 ## My Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,htmx,css,js,ts,golang,rust,cpp,md" alt="languages"/><br />
-    <img src="https://skillicons.dev/icons?i=react,sass,tailwind,nextjs,vite,threejs,tauri,vue,nuxtjs" alt="frameworks and libs"/><br />
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,rabbitmq,docker,elasticsearch,postman,git,obsidian" alt="apps"/><br />
+    <img src="https://skillicons.dev/icons?i=html,htmx,css,js,ts,golang,rust,md" alt="languages"/><br />
+    <img src="https://skillicons.dev/icons?i=sass,tailwind,vite,svelte" alt="frameworks and libs"/><br />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,docker,postman,git" alt="apps"/><br />
   </a>
 </p>
 
